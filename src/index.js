@@ -1,0 +1,10 @@
+import React from "react";
+import ReactDOM from "react-dom";
+// import "./index.css";
+// import App from "./Work";
+// import "./Work.css";
+// import Tracker from "./component/covid tracker/Covid";
+// import Google from "./component/google keeps/Google";
+// import New from "./component/20 project/expense project/New";
+import First from "./component/first website/First";
+ReactDOM.render(<First />, document.getElementById("root"));
